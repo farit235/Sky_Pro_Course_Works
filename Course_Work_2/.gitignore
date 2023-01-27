@@ -1,0 +1,7 @@
+*.log
+
+*.pyc
+
+/.pytest_cache
+
+/tests
